@@ -1,0 +1,19 @@
+.slider {
+    display: flex;
+    position: relative;
+    bottom: 200rem;
+    right: 35rem;
+    color: rgb(255, 255, 255);
+    border-radius: 13px;
+    padding-left: 10px;
+    width: 77.5rem;
+    height: 25.01rem;
+}
+
+.sweets, .joker, .wildwind, .buffalo, .spartan, .lion {
+    display: flex;
+    border-radius: 13px;
+    height: 400px;
+    width: 400px;
+}
+
